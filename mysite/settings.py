@@ -7,6 +7,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 
 
 
+#TODO вынести в отдельный файл .env
 
 SECRET_KEY = 'django-insecure-fi+4w&i)a(j(ooay(jzl=p=$t*h@cq6a#*d37)d6vht0&0x8zd'
 
